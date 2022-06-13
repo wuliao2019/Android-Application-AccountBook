@@ -40,5 +40,8 @@ hellocharts-library:1.5.8@aar
 #### 应用截图
 -|-|-
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](Screenshot/1.main.jpg) | ![image](Screenshot/2.diff.jpg) | ![image](Screenshot/3.choose.jpg)
-![image](Screenshot/4.game.jpg) | ![image](Screenshot/5.game.jpg) | ![image](Screenshot/6.finish.jpg)
+![image](Screenshot/1.jpg) | ![image](Screenshot/2.jpg) | ![image](Screenshot/3.jpg)
+![image](Screenshot/4.jpg) | ![image](Screenshot/5.jpg) | ![image](Screenshot/6.jpg)
+![image](Screenshot/7.jpg) | ![image](Screenshot/8.jpg) |
+![image](Screenshot/9.jpg) | ![image](Screenshot/10.jpg) |
+![image](Screenshot/11.jpg) | ![image](Screenshot/12.jpg) | ![image](Screenshot/13.jpg)
