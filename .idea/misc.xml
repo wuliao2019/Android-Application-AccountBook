@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/dialog.xml" value="0.20170940170940171" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2640625" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure_medicine.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure_other.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure_shopping.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure_traffic.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_expenditure_work.xml" value="0.25769230769230766" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2640625" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/account_item.xml" value="0.536" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/add_dialog.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/add_expenditure.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/add_income.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/all_items.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/card_item.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/custom_tab.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/day_view.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/detail.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/expenditure.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/fragment_dashboard.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/fragment_home.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/fragment_notifications.xml" value="0.1644021739130435" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/income.xml" value="0.24444444444444444" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/month_view.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/layout/year_view.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24791666666666667" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/menu/long_click_menu.xml" value="0.20341880341880342" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.21666666666666667" />
+        <entry key="..\:/Program/Androidapp/AccountBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">记账本</string>
+    <string name="title_home">记账</string>
+    <string name="title_dashboard">查询</string>
+    <string name="title_notifications">统计</string>
+    <string name="add">添加</string>
+    <string name="chooseDate">%d年%d月%d日</string>
+    <string name="deleteItem">删除记录</string>
+</resources>
