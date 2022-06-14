@@ -13,6 +13,8 @@ Android-PickerView:4.1.9
 
 hellocharts-library:1.5.8@aar
 
+(源码和资源在app/src/main)
+
 #### 实验目的
 1.	能够熟练的使用常用组件和布局进行界面设计。
 2.	能够使用对话框、菜单、ViewPager、碎片等组件，并能使用RoomDB访问数据库数据。
